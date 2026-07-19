@@ -30,6 +30,8 @@ I am a passionate Full-Stack Developer with a background in Business IT, dedicat
 ![CentOS](https://img.shields.io/badge/cent_os-%23932178.svg?style=for-the-badge&logo=centos&logoColor=white)
 ![AlmaLinux](https://img.shields.io/badge/AlmaLinux-%23F44336.svg?style=for-the-badge&logo=almalinux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows 11](https://img.shields.io/badge/Windows%2011-%230078d4.svg?style=for-the-badge&logo=windows-11&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
