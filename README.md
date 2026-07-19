@@ -52,6 +52,5 @@ I am a passionate Full-Stack Developer with a background in Business IT, dedicat
 
 ### 🤝 Connect with Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-username)
-- 📧 [Email](mailto:your.email@example.com)
-- 🌐 [Portfolio](https://yourdomain.com)
+- 💼 [LinkedIn](https://linkedin.com/in/karim-alshamy)
+- 📧 [Email](mailto:karim.essam620@gmail.com)
