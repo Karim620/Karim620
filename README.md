@@ -9,7 +9,9 @@ I am a passionate Full-Stack Developer with a background in Business IT, dedicat
 ### 🛠️ Tech Stack & Tools
 
 #### **Frontend & Mobile**
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
@@ -29,6 +31,7 @@ I am a passionate Full-Stack Developer with a background in Business IT, dedicat
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![CentOS](https://img.shields.io/badge/cent_os-%23932178.svg?style=for-the-badge&logo=centos&logoColor=white)
 ![AlmaLinux](https://img.shields.io/badge/AlmaLinux-%23F44336.svg?style=for-the-badge&logo=almalinux&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230078d4.svg?style=for-the-badge&logo=windows-11&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
@@ -40,9 +43,13 @@ I am a passionate Full-Stack Developer with a background in Business IT, dedicat
 ### 💻 Current Focus & Projects
 
 - 🛠️ Developing and refactoring scalable logistics platform architectures (**Primo Logistics**).
+
 - 📲 Building automated WhatsApp messaging applications (**Zajel**).
+
 - 💒 Designing full-stack multi-vendor marketplace solutions (**Areqa**).
+
 - 🤖 Exploring advanced agentic workflows and AI-driven development.
+
 
 ---
 
@@ -55,4 +62,5 @@ I am a passionate Full-Stack Developer with a background in Business IT, dedicat
 ### 🤝 Connect with Me
 
 - 💼 [LinkedIn](https://linkedin.com/in/karim-alshamy)
+
 - 📧 [Email](mailto:karim.essam620@gmail.com)
